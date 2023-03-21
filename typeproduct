@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "LG Monitor จอคอมพิวเตอร์ 18.5'' 19M38A-B (TN) 60Hz",
+        "slug": "lg-monitor-18-5-19-m38-a-b-tn-60-hz",
+        "description": "Brand\tLG_x000D_![FRONT-W-INFIL-PDP_Zoom_01.avif](/uploads/FRONT_W_INFIL_PDP_Zoom_01_3e4541608e.avif)\n\nModel\t19M38A-B_x000D_\n\nMaxmium Resolution\t1366 x 768_x000D_\n\nBrightness\t200 cd/m²_x000D_\n\nResponse Time\t5ms_x000D_\n\nScreen Size\t18.5\"_x000D_\n\nContrast Ratio\tMega_x000D_\n\nPanel Type\tTN_x000D_\n\nAspect Ratio\t16:9_x000D_\n\nD-Sub (VGA)\t1 Port_x000D_\n\nDimensions\tDimension (W x D x H)(mm) _x000D_\n\nSet (with Stand) : 441.3 x167.8 x350.2 _x000D_\n\nSet (without Stand) : 441.3 x 57.3 x 278.1 _x000D_\n\nWall Mount size (mm) : 75 x 75_x000D_\n\nDisplay Colors\t16.7M_x000D_\n\nประกัน 3 ปี_x000D_\n\n_x000D_\n\nทางบริษัทฯ ขอสงวนสิทธิ์ในการรับผิดชอบใดๆ อันเนื่องจากข้อผิดพลาดทางการพิมพ์ (ผิด/ตก)_x000D_\n\nทางบริษัทฯ ขอสงวนสิทธิ์ในการเปลี่ยนแปลงราคาและโปรโมชั่นโดยไม่แจ้งให้ทราบล่วงหน้า",
+        "price": 2600,
+        "qty": 10,
+        "is_featured": true,
+        "createdAt": "2023-03-06T05:21:53.422Z",
+        "updatedAt": "2023-03-06T05:22:40.063Z",
+        "publishedAt": "2023-03-06T05:22:13.608Z",
+        "image": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "name": "FRONT-W-INFIL-PDP_Zoom_01.avif",
+                "alternativeText": null,
+                "caption": null,
+                "width": null,
+                "height": null,
+                "formats": null,
+                "hash": "FRONT_W_INFIL_PDP_Zoom_01_3e4541608e",
+                "ext": ".avif",
+                "mime": "image/avif",
+                "size": 14.47,
+                "url": "/uploads/FRONT_W_INFIL_PDP_Zoom_01_3e4541608e.avif",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2023-03-06T05:21:25.767Z",
+                "updatedAt": "2023-03-06T05:21:25.767Z"
+              }
+            }
+          ]
+        },
+        "category": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "Computer",
+              "description": "teststestet",
+              "createdAt": "2023-03-04T07:39:00.817Z",
+              "updatedAt": "2023-03-06T05:12:14.740Z",
+              "publishedAt": "2023-03-04T08:07:50.546Z",
+              "status": true
+            }
+          }
+        }
+      }
+    }
+    
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
